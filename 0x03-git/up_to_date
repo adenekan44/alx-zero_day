@@ -1,1 +1,1 @@
-the git command line used is git fetch origin and git merge origin/master
+git pull origin master
